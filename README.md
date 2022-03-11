@@ -35,6 +35,3 @@ Run the program with:
 ```
 $ ./FindComponents <input file> <output file>
 ```
-
-## TA Note
-To implement the visit() function for DFS(), I created a private visit() function local to Graph.c
