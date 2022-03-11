@@ -1,4 +1,25 @@
-# Assignment 3 - Depth-First Search
+# Depth-First Search - Finding Strongly Connected Components
+
+Finds the strongly connected components of a given graph. The input file should be in the following format:
+```
+8
+1 2
+2 3
+2 5
+2 6
+3 4
+3 7
+4 3
+4 8
+5 1
+5 6
+6 7
+7 6
+7 8
+8 8
+0 0
+```
+The first line specifies the number of vertices the graph contains. Each subsequent line until the "0 0" terminating dummy line specifies the edges between vertices.
 
 ## Files
 
